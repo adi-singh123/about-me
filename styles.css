@@ -157,7 +157,7 @@ button:hover,button a:hover{
   height: 100%;
   width: 100%;
  object-fit: none;
- -webkit-mask-image:url(/image/effect.png) ;
+ -webkit-mask-image:url(effect.png) ;
  -webkit-mask-size:contain ;
 
   
